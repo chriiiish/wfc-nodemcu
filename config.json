@@ -1,0 +1,7 @@
+{
+	"mqtt_server" : "<ip/hostname>",
+	"mqtt_clientid" : "<Client ID for MQTT>",
+	"mqtt_channel" : "<channel name>",
+	"wifi_name" : "<wifi name>",
+	"wifi_pass" : "<wifi pass>"
+}
